@@ -1,7 +1,7 @@
 //variable: base, height, field calculation
 
-var a = prompt(' value a:'),
-	h = prompt('Provide value h:'),
+var a = prompt('Enter value a:'),
+	h = prompt('Enter value h:'),
 	triangleArea = a*h/2;
 
 //calculation of the triangle field result
